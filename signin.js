@@ -16,7 +16,7 @@ function validate(){
          alert("Your Password is too short!")
      }
      
-        (alert("welcome !" ))
+       else { (alert("welcome !" ))
     }
     document.getElementById("form-row").value = '' 
 }
